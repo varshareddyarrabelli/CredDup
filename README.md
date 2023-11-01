@@ -1,16 +1,5 @@
-# credmint
+# CredDup
 
-A new Flutter project.
+## Basic Overview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is developed using the Flutter framework, with the primary programming language being Dart. The project's user interface and functionality appear to bear a striking resemblance to the Cred app. The utilization of Flutter and Dart enables the creation of cross-platform, visually appealing, and functional applications. In summary, this project leverages the power of Flutter and Dart to offer a user interface.
