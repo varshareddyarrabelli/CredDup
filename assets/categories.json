@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "money_section",
+      "section_properties": {
+        "title": "MONEY",
+        "items": [
+          {
+            "id": "mint",
+            "display_data": {
+              "name": "mint",
+              "description": "grow your savings. 3x faster.",
+              "icon_url": "https://media.istockphoto.com/id/1017230066/photo/printing-us-dollar-bills.jpg?s=612x612&w=0&k=20&c=YfMITOgBwT28sSdtTvyAvn3s2GQ_latocGO9h3jw6YY="
+            }
+          },
+          {
+            "id": "bank_accounts",
+            "display_data": {
+              "name": "bank accounts",
+              "description": "check your bank balance",
+              "icon_url": "https://t4.ftcdn.net/jpg/00/61/06/27/360_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg"
+            }
+          },
+          {
+            "id": "scan_n_pay",
+            "display_data": {
+              "name": "Scan n Pay",
+              "description": "Scan and Pay&pay",
+              "icon_url": "https://img.freepik.com/free-photo/small-business-qr-code-cashless-payment-store_53876-127043.jpg?w=2000"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "bills_section",
+      "section_properties": {
+        "title": "BILLS",
+        "items": [
+          {
+            "id": "utility_n_bills",
+            "display_data": {
+              "name": "utility & all bills",
+              "description": "the most rewarding way to pay your bills",
+              "icon_url": "https://cdn.xxl.thumbs.canstockphoto.com/bills-3d-people-human-character-stressed-because-of-bills-3d-render-illustration-drawings_csp7215639.jpg"
+            }
+          },
+          {
+            "id": "house_rent",
+            "display_data": {
+              "name": "house rent",
+              "description": "pay rent with your credit card",
+              "icon_url": "https://thumbs.dreamstime.com/b/wooden-house-inscription-rent-rental-property-apartments-services-realtor-affordable-housing-prices-real-estate-129678669.jpg"
+            }
+          },
+          {
+            "id": "education_fees",
+            "display_data": {
+              "name": "education fees",
+              "description": "pay education fees with your credit card",
+              "icon_url": "https://media.istockphoto.com/id/1186032028/photo/saving-money-for-education-concept.jpg?s=612x612&w=0&k=20&c=pUBCXpcVvW2XdQ8k0Ci8bWWO0lQclY4TDU9hrwBLE4k="
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "benefits_section",
+      "section_properties": {
+        "title": "BENEFITS",
+        "items": [
+          {
+            "id": "rewards",
+            "display_data": {
+              "name": "rewards",
+              "description": "redeem coins for cashback",
+              "icon_url": "https://www.shutterstock.com/shutterstock/photos/234009130/display_1500/stock-photo-rewards-word-in-colorful-stars-illustrating-a-reward-bonus-prize-enticement-or-incentive-for-234009130.jpg"
+            }
+          },
+          {
+            "id": "refer_n_earn",
+            "display_data": {
+              "name": "refer & earn",
+              "description": "assured cashback for bringing friends to CRED",
+              "icon_url": "https://img.freepik.com/premium-vector/people-share-info-about-referral-earn-money-landing-page-template_95505-155.jpg"
+            }
+          },
+          {
+            "id": "coins",
+            "display_data": {
+              "name": "coins",
+              "description": "use coins to claim rewards and other perks",
+              "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwp1P_HPSDutmi0pRa_Cu5xCY98442NP_aHkNjRUw&s"
+            }
+          },
+          {
+            "id": "vouchers",
+            "display_data": {
+              "name": "vouchers",
+              "description": "vouchers you have won",
+              "icon_url": "https://t3.ftcdn.net/jpg/03/24/14/88/360_F_324148849_jZw2PUBaeKGZWahhJ6aS4ajBdrdCoZ5N.jpg"
+            }
+          },
+          {
+            "id": "brand_offers",
+            "display_data": {
+              "name": "brand offers",
+              "description": "get exclusive offers on brands while using CRED pay",
+              "icon_url": "https://img.freepik.com/premium-vector/branding-team-concept-with-people-scene-flat-design-man-promoting-new-brand-makes-advertising-campaign-using-digital-marketing-tools-vector-illustration-with-character-situation-web_9209-10041.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
